@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
-<h3 align="center">\section*{Summary}
-Passionate AI Developer with hands-on experience in creating cutting-edge AI solutions. My expertise lies in areas like Natural Language Processing and Computer Vision. I am eager to collaborate within a team to solve real-world problems using innovative AI technology. With a strong foundation in Python and various AI tools, I am committed to continuous learning and contributing to impactful projects.</h3>
+<h3 align="center">Passionate AI Developer with hands-on experience in creating cutting-edge AI solutions. My expertise lies in areas like Natural Language Processing and Computer Vision. I am eager to collaborate within a team to solve real-world problems using innovative AI technology. With a strong foundation in Python and various AI tools, I am committed to continuous learning and contributing to impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rizwan-official&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rizwan-official" /> </p>
 
