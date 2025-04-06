@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
-<h3 align="center">A passionate Machine Learning and AI Specialist from India</h3>
+<h3 align="center">\section*{Summary}
+Passionate AI Developer with hands-on experience in creating cutting-edge AI solutions. My expertise lies in areas like Natural Language Processing and Computer Vision. I am eager to collaborate within a team to solve real-world problems using innovative AI technology. With a strong foundation in Python and various AI tools, I am committed to continuous learning and contributing to impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rizwan-official&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rizwan-official" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and AI**
-
-- 📫 How to reach me **rizwannjarakkad@gmail.com**
+- 📫 How to reach me **muhammadrizwan.official.ac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
